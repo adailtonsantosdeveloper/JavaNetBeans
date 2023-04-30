@@ -22,6 +22,7 @@ public class IntroducaoJava {
         System.out.println("Este feito ocorre graças à JVM - Java Virtual Machine (Máquina Virtual Java).");
         System.out.println("Máquina Virtual é um software que imita uma máquina real, é um ecossistema próprio"+
                 " do Java que precisa ser instalado previamente no sistema real para que o Java funcione.");
+        System.out.println("No site da Oracle é possível baixar a JVM para cada sistema.");
         
     }
     
